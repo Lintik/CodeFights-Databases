@@ -13,6 +13,7 @@ The total amount of money spent on a product is calculated as price * quantity.
 **Example**
 
 * For the following table **Products**
+
 |id|	name	|price	|quantity|
 |---|---|---|---|
 |1|	MacBook Air|	1500	|1|
