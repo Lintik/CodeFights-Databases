@@ -22,6 +22,7 @@ For the following table users
 |23|	Felix|admin	|felix@codefights.com|
 |52|	admin666	|AdmiN	|iamtheadmin@admin.admin|
 |87|	solver100500	|regular|	email@notbot.com|
+
 the resulting table should be
 
 |email|
@@ -29,6 +30,7 @@ the resulting table should be
 |email@notbot.com|
 |fun@meh.com|
 |today@humor.com|
+
 The only three users who should get notifications are luckygirl, todayhumor, and solver100500. Their emails are fun@meh.com, today@humor.com, and email@notbot.com respectively, which should be sorted as email@notbot.com, fun@meh.com, and today@humor.com.
 
 [time limit] 10000ms (mysql)
