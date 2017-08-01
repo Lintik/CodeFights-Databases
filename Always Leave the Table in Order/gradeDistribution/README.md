@@ -30,6 +30,7 @@ For the following table __Grades__
 |Anthony|	54528|	100|	10|	50|
 |Jonathan	|58754	|49|	58|	121|
 |Jonty	|11000	|25|	30|	180|
+
 Output should be
 
 |Name|	ID|
