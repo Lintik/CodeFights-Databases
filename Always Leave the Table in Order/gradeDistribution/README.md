@@ -11,10 +11,10 @@ According to school policy, there are three possible ways to evaluate a grade:
   * Midterm 1: 25% of the grade
   * Midterm 2: 25% of the grade
   * Final exam: 50% of the grade
-*Option 2:
+* Option 2:
   * Midterm 1: 50% of the grade
   * Midterm 2: 50% of the grade
-*Option 3:
+* Option 3:
   * Final exam: 100% of the grade.
 Each student's final grade comes from the option that works the best for that student.
 
