@@ -5,6 +5,7 @@ At the end of every semester your professor for "Introduction to Databases" save
 * **Midterm**1: the result of the first midterm out of 100 points;
 * **Midterm**2: the result of the second midterm out of 100 points;
 * **Final**: the result of the final exam, this time out of a possible 200 points.
+
 According to school policy, there are three possible ways to evaluate a grade:
 
 * Option 1:
@@ -16,6 +17,7 @@ According to school policy, there are three possible ways to evaluate a grade:
   * Midterm 2: 50% of the grade
 * Option 3:
   * Final exam: 100% of the grade.
+  
 Each student's final grade comes from the option that works the best for that student.
 
 As a Teaching Assistant (TA), you need to __query__ the __name__ and __id__ of all the students whose best grade comes from __Option 3__, sorted based on the first 3 characters of their name. If the first 3 characters of two names are the same, then the student with the lower ID value comes first.
