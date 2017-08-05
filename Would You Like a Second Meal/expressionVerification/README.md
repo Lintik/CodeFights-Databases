@@ -28,6 +28,7 @@ For the following table __expressions__
 the output should be
 
 |id|	a|	b|	operation|	c|
+|---|---|---|---|---|
 |1|	2|	3|	+|	5|
 |4|	4|	7|	*|	28|
 
