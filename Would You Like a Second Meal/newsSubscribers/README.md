@@ -39,6 +39,7 @@ and __half_year__
 the output should be
 
 |subscriber|
+|---|
 |Erwin Chitty|
 |Joya Buss|
 |Lavelle Phu|
