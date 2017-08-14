@@ -27,6 +27,7 @@ For the following table __foreignCompetitors__
 the output should be
 
 |country	|competitors|
+|---|---|
 |France|	2|
 |Germany|	1|
 |Spain	|1|
