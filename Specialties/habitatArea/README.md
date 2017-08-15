@@ -31,7 +31,7 @@ the output should be
 
 Here is an illustration of the given points and their convex hull:
 
-![alt text](https://codefightsuserpics.s3.amazonaws.com/tasks/habitatArea/img/example.png?_tm=1500366041892)
+![alt text](https://github.com/Lintik/Databases/blob/master/Specialties/habitatArea/example.png)
 
 Note that you should return the exact answer without any trailing zeros.
 
