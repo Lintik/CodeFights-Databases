@@ -6,16 +6,16 @@ Information about the books in your library is stored in the table __catalogs__,
 * xml_doc - the catalog as an XML file in the following format:
 
 &#60;catalog&#62;    
-    &#60;book id="..."&#62;    
-        &#60;author&#62;...&#60;/author&#62;    
-            &#60;title&#62;...&#60;/title&#62;    
-    &#60;/book&#62;    
+&nbsp;&nbsp;&#60;book id="..."&#62;    
+&nbsp;&nbsp;&nbsp;&nbsp;&#60;author&#62;...&#60;/author&#62;    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#60;title&#62;...&#60;/title&#62;    
+&nbsp;&nbsp;&#60;/book&#62;    
   
-  &#60;book id="..."&#62;  
-    &#60;author&#62;...&#60;/author&#62;  
-      &#60;title&#62;...&#60;/title&#62;  
-  &#60;/book&#62;  
-  ...  
+&nbsp;&nbsp;&#60;book id="..."&#62;  
+&nbsp;&nbsp;&nbsp;&nbsp;&#60;author&#62;...&#60;/author&#62;  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#60;title&#62;...&#60;/title&#62;  
+&nbsp;&nbsp;&#60;/book&#62;  
+&nbsp;&nbsp;...  
 &#60;/catalog&#60;.  
 
 Each catalog represents the work of one distinct <author> in your library. There is exactly one <catalog> element in each xml_doc, and the id for each book is unique.
