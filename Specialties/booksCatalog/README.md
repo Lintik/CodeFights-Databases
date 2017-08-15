@@ -28,7 +28,7 @@ For given table __catalogs__
 
 |doc_id|	xml_doc|
 |---|---|
-|1	| <catalog> <br /> <book id="11"> <br /> <author>Chuck Palahniuk</author> <br /> <title>Fight Club</title> <br /> </book> <br /> <book id="12"> <br /> <author>Chuck Palahniuk</author> <br /> <title>Survivor</title> <br /> </book> <br /> </catalog>|
+|1	| &#60;catalog&#62; <br /> &#60;book id="11"&#62; <br /> &#60;author&#62;Chuck Palahniuk&#60;/author&#62; <br /> &#60;title>Fight Club&#60;/title&#62; <br /> &#60;/book&#62; <br /> &#60;book id="12"&#62; <br /> &#60;author&#62;Chuck Palahniuk&#60;/author&#62; <br /> &#60;title&#62;Survivor&#60;/title&#62; <br /> &#60;/book&#62; <br /> &#60;/catalog&#62;|
 |2	| <catalog><book id="21"><author>Bernard Werber</author><title>Les Thanatonautes</title></book></catalog>|
 |3	|<catalog><book id="31"><author>Boris Vian</author><title>The Big Sleep</title></book><book id="32"><author>Boris Vian</author><title>The Lady in the Lake</title></book><book id="33"><author>Boris Vian</author><title>The World of Null-A</title></book></catalog>|
 
