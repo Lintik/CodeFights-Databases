@@ -6,10 +6,10 @@ Information about the books in your library is stored in the table __catalogs__,
 * xml_doc - the catalog as an XML file in the following format:
 
 &#60;catalog&#62;  
-  <p>&#60;book id="..."&#62;  <p>
-    &#60;author&#62;...&#60;/author&#62;  
-      &#60;title&#62;...&#60;/title&#62;  
-  &#60;/book&#62;  
+    &#60;book id="..."&#62;  
+      &#60;author&#62;...&#60;/author&#62;  
+        &#60;title&#62;...&#60;/title&#62;  
+    &#60;/book&#62;  
   
   &#60;book id="..."&#62;  
     &#60;author&#62;...&#60;/author&#62;  
