@@ -27,17 +27,7 @@ For given table __catalogs__
 
 |doc_id|	xml_doc|
 |---|---|
-|1	|
-<catalog>
- <book id="11">
-  <author>Chuck Palahniuk</author>
-  <title>Fight Club</title>
- </book>
- <book id="12">
-  <author>Chuck Palahniuk</author>
-  <title>Survivor</title>
- </book>
-</catalog>|
+|1	| <catalog> <br /> <book id="11"> <br /> <author>Chuck Palahniuk</author> <br /> <title>Fight Club</title> <br /> </book> <br /> <book id="12"> <br /> <author>Chuck Palahniuk</author> <br /> <title>Survivor</title> <br /> </book> <br /> </catalog>|
 |2	|
 <catalog>
  <book id="21">
