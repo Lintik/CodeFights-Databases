@@ -5,7 +5,7 @@ Information about the books in your library is stored in the table __catalogs__,
 * doc_id - the unique ID of the catalog;
 * xml_doc - the catalog as an XML file in the following format:
 
-'&#0060' catalog '&#0062'
+&#60; catalog &#62;
   <book id="...">
     <author>...</author>
     <title>...</title>
