@@ -30,7 +30,7 @@ For given table __catalogs__
 |---|---|
 |1	| &#60;catalog&#62; <br /> &#60;book id="11"&#62; <br /> &#60;author&#62;Chuck Palahniuk&#60;/author&#62; <br /> &#60;title>Fight Club&#60;/title&#62; <br /> &#60;/book&#62; <br /> &#60;book id="12"&#62; <br /> &#60;author&#62;Chuck Palahniuk&#60;/author&#62; <br /> &#60;title&#62;Survivor&#60;/title&#62; <br /> &#60;/book&#62; <br /> &#60;/catalog&#62;|
 |2	| &#60;catalog&#62; <br /> &#60;book id="21"&#62; <br /> &#60;author>Bernard Werber&#60;/author&#62; <br /> &#60;title>Les Thanatonautes&#60;/title&#62; <br /> &#60;/book&#62; <br /> &#60;/catalog&#62;|
-|3	|<catalog><book id="31"><author>Boris Vian</author><title>The Big Sleep</title></book><book id="32"><author>Boris Vian</author><title>The Lady in the Lake</title></book><book id="33"><author>Boris Vian</author><title>The World of Null-A</title></book></catalog>|
+|3	|&#60;catalog&#62; <br /> &#60;book id="31"&#62; <br /> &#60;author&#62;Boris Vian&#60;/author&#62; <br /> &#60;title&#62;The Big Sleep&#60;/title&#62; <br /> &#60;/book&#62;&#60;book id="32"&#62;<br /> &#60;author&#62;Boris Vian&#60;/author&#62;<br /> &#60;title&#62;The Lady in the Lake&#60;/title&#62; <br /> &#60;book>&#60;book id="33"&#62; <br /> &#60;author>Boris Vian&#60;/author&#62; <br /> &#60;title&#62;The World of Null-A&#60;/title&#62; <br /> &#60;/book&#62; <br /> &#60;/catalog&#62;|
 
 the output should be
 
