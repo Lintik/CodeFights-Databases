@@ -11,7 +11,7 @@ Information about the books in your library is stored in the table __catalogs__,
   
     &#60;author&#62;...&#60;/author&#62;
     
-    &#60;title&#62;...&#60;/title&#62;
+      &#60;title&#62;...&#60;/title&#62;
     
   &#60;/book&#62;
   
@@ -19,8 +19,8 @@ Information about the books in your library is stored in the table __catalogs__,
   
     &#60;author&#62;...&#60;/author&#62;
     
-    &#60;title&#62;...&#60;/title&#62;
-    
+      &#60;title&#62;...&#60;/title&#62;
+      
   &#60;/book&#62;
   
   ...
