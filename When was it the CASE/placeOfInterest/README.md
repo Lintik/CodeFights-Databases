@@ -18,12 +18,12 @@ For the following table __countryActivities__
 
 |id|	country	|region	|leisure_activity_type|	number_of_places|
 |---|---|---|---|---|
-|1|	France	|Normandy	|River| cruise|	2|
+|1|	France	|Normandy	|River cruise|	2|
 |2|	Germany	|Bavaria	|Golf|	5|
-|3|	Germany	|Berlin	|Adventure| park|	2|
-|4|	France	|Ile-de-France	|River |cruise|	1|
-|5|	Sweden|	Stockholm	|River |cruise|	3|
-|6|	France|	Normandy	|Kart| racing	|4|
+|3|	Germany	|Berlin	|Adventure park|	2|
+|4|	France	|Ile-de-France	|River cruise|	1|
+|5|	Sweden|	Stockholm	|River cruise|	3|
+|6|	France|	Normandy	|Kart racing	|4|
 
 the output should be
 
