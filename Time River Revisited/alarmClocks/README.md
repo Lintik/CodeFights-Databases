@@ -27,3 +27,7 @@ the output should be
 |2016-12-11 22:00:00|
 |2016-12-18 22:00:00|
 |2016-12-25 22:00:00|
+
+![alt text](https://github.com/Lintik/Databases/tree/master/Time%20River%20Revisited/alarmClocks)
+
+* [time limit] 10000ms (mysql)
