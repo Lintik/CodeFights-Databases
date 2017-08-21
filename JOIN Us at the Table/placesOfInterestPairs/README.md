@@ -31,5 +31,6 @@ the output should be
 |London Eye|	Trafalgar Square|
 |The Shard	|Tower of London|
 
+![alt text](https://github.com/Lintik/Databases/blob/master/JOIN%20Us%20at%20the%20Table/placesOfInterestPairs/ex.png)
 
 * __[time limit] 10000ms (mysql)__
