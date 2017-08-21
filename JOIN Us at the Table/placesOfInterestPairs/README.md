@@ -17,6 +17,7 @@ __Example__
 For the following table __sights__
 
 |id	name|	x	|y|
+|---|---|---|
 |1|	Tower of London	|51508.026|	-7.5939|
 |2|	Trafalgar Square	|51508.040	|-12.7899|
 |3|	London Eye	|51503.538	|-11.9371|
@@ -25,6 +26,7 @@ For the following table __sights__
 the output should be
 
 |place1|	place2|
+|---|---|
 |London Eye|	The Shard|
 |London Eye|	Trafalgar Square|
 |The Shard	|Tower of London|
