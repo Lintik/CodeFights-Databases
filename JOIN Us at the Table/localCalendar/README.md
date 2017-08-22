@@ -11,7 +11,7 @@ Event dates and user settings are stored in the __events__ and __settings__ tabl
   + timeshift: the number of minutes the user's time differs from the server (this could potentially be negative or zero);
   + hours: the number of hours in the user's clock (either 12 or 24).
   
-The displayed dates should have the format yyyy-mm-dd hh:mm if the user's clock has 24 hours. Otherwise, the format should be yyyy-mm-dd hh:mm <p>, where <p> is either AM or PM depending on the time.
+The displayed dates should have the format yyyy-mm-dd hh:mm if the user's clock has 24 hours. Otherwise, the format should be yyyy-mm-dd hh:mm &#60;p&#62;, where &#60;p&#62; is either AM or PM depending on the time.
 
 Given the __events__ and __settings__ tables, compose the result as follows: The resulting table should have two columns, event_id and formatted_date, that contain the event IDs and the formatted event dates according to settings of the user who scheduled that event, respectively. The table should be sorted in ascending order by the event IDs.
 
