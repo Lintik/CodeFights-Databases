@@ -42,4 +42,5 @@ the output should be
 |2|	2012-12-12 05:04 AM|
 |3|	2016-01-01 11:19|
 |4|	2011-11-11 02:37 PM|
-[time limit] 10000ms (mysql)
+
+* __[time limit] 10000ms (mysql)__
