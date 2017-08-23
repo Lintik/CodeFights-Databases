@@ -2,8 +2,9 @@ You are developing an application for working with different currencies. You've 
 
 You've parsed some data that you found on the Internet and stored it in a __currencies__ table, which has the following structure:
 
-code: the unique code of the currency;
-country: the name of the country in which this currency is used.
+* code: the unique code of the currency;
+* country: the name of the country in which this currency is used.
+
 Unfortunately, your parser didn't check the length of the codes and some erroneous data got into the table by mistake.
 
 Your task is to delete all rows from the __currencies__ table in which code is not exactly three letters long.
