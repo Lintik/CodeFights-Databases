@@ -26,6 +26,7 @@ the output should be
 |total|
 |---|
 |4.828427125|
+
 Here is how the answer was calculated:
 distance(0, 0, 1, 1) + distance(1, 1, 2, 2) + distance(2, 2, 4, 2) = sqrt(2) + sqrt(2) + 2 = 4.828427125.
 
