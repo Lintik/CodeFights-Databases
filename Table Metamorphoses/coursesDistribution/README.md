@@ -18,7 +18,7 @@ There are also __groupcourses__ and __groupexams__ tables which represent course
   + group_id: id of the group taking the exam;
   + course_id: id of the course.
   
-Given courses, __groupcourses__ and __groupexams__ tables you need to properly set up foreign keys, so that after a record is deleted from the __courses__ table, records that correspond to the deleted course are also deleted from __groupcourses__ and __groupexams__. Please note that groupexams can only contain pairs from groupcourses and there can be multiple exam dates for the same group_id, course_id combination. It is guaranteed that adding correct foreign keys won't raise any errors.
+Given __courses__, __groupcourses__ and __groupexams__ tables you need to properly set up foreign keys, so that after a record is deleted from the __courses__ table, records that correspond to the deleted course are also deleted from __groupcourses__ and __groupexams__. Please note that groupexams can only contain pairs from groupcourses and there can be multiple exam dates for the same group_id, course_id combination. It is guaranteed that adding correct foreign keys won't raise any errors.
 
 __Example__
 
