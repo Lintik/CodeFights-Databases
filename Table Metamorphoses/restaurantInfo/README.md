@@ -31,7 +31,7 @@ should become
 |1|	The Big City Barbecue|	TBD|	1|
 |2|	Roadhouse|	TBD|	1|
 |3|	Hibiscus	|TBD|	1|
-|4|	The Waterfront Courtyard|	TBD	1|
+|4|	The Waterfront Courtyard|	TBD|	1|
 |5|	The Royal Spices|	TBD|	1|
 
 * __[time limit] 10000ms (mysql)__
