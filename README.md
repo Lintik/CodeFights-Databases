@@ -1,18 +1,18 @@
 # Databases
 
-+ [Welcome to the Table]
-+ [Always Leave Table in Order]
-+ [Would you LIKE the Second Meal]
-+ [GROUP Dishes BY Type]
-+ [Time for Tricks]
-+ [Specialties]
-+ [When was it the CASE]
-+ [Regular Paradise]
-+ [Time River Revisited]
-+ [Join Us at the Table]
-+ [Table Metamorphoses]
-+ [Selecting What to Select]
-+ [Express your CREATivity]
-+ [Exotic Dishes]
-+ [Between Join and Select]
-+ [A Table of Desserts]
++ [Welcome to the Table](https://github.com/Lintik/CodeFights-Databases/tree/master/Welcome%20to%20the%20Table)
++ [Always Leave Table in Order](https://github.com/Lintik/CodeFights-Databases/tree/master/Always%20Leave%20Table%20in%20Order)
++ [Would you LIKE the Second Meal](https://github.com/Lintik/CodeFights-Databases/tree/master/Would%20you%20LIKE%20the%20Second%20Meal)
++ [GROUP Dishes BY Type](https://github.com/Lintik/CodeFights-Databases/tree/master/GROUP%20Dishes%20BY%20Type)
++ [Time for Tricks](https://github.com/Lintik/CodeFights-Databases/tree/master/Time%20for%20Tricks)
++ [Specialties](https://github.com/Lintik/CodeFights-Databases/tree/master/Specialties)
++ [When was it the CASE](https://github.com/Lintik/CodeFights-Databases/tree/master/When%20was%20it%20the%20CASE)
++ [Regular Paradise](https://github.com/Lintik/CodeFights-Databases/tree/master/Regular%20Paradise)
++ [Time River Revisited](https://github.com/Lintik/CodeFights-Databases/tree/master/Time%20River%20Revisited)
++ [Join Us at the Table](https://github.com/Lintik/CodeFights-Databases/tree/master/Join%20Us%20at%20the%20Table)
++ [Table Metamorphoses](https://github.com/Lintik/CodeFights-Databases/tree/master/Table%20Metamorphoses)
++ [Selecting What to Select](https://github.com/Lintik/CodeFights-Databases/tree/master/Selecting%20What%20to%20Select)
++ [Express your CREATivity](https://github.com/Lintik/CodeFights-Databases/tree/master/Express%20your%20CREATivity)
++ [Exotic Dishes](https://github.com/Lintik/CodeFights-Databases/tree/master/Exotic%20Dishes)
++ [Between Join and Select](https://github.com/Lintik/CodeFights-Databases/tree/master/Between%20Join%20and%20Select)
++ [A Table of Desserts](https://github.com/Lintik/CodeFights-Databases/tree/master/A%20Table%20of%20Desserts)
