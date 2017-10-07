@@ -1,7 +1,7 @@
 # Databases
 
 + [Welcome to the Table](https://github.com/Lintik/CodeFights-Databases/tree/master/Welcome%20to%20the%20Table)
-+ [Always Leave Table in Order](https://github.com/Lintik/CodeFights-Databases/tree/master/Always%20Leave%20Table%20in%20Order)
++ [Always Leave Table in Order](https://github.com/Lintik/CodeFights-Databases/tree/master/Always%20Leave%20the%20Table%20in%20Order)
 + [Would you LIKE the Second Meal](https://github.com/Lintik/CodeFights-Databases/tree/master/Would%20you%20LIKE%20the%20Second%20Meal)
 + [GROUP Dishes BY Type](https://github.com/Lintik/CodeFights-Databases/tree/master/GROUP%20Dishes%20BY%20Type)
 + [Time for Tricks](https://github.com/Lintik/CodeFights-Databases/tree/master/Time%20for%20Tricks)
