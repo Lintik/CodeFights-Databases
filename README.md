@@ -9,7 +9,7 @@
 + [When was it the CASE](https://github.com/Lintik/CodeFights-Databases/tree/master/When%20was%20it%20the%20CASE)
 + [Regular Paradise](https://github.com/Lintik/CodeFights-Databases/tree/master/Regular%20Paradise)
 + [Time River Revisited](https://github.com/Lintik/CodeFights-Databases/tree/master/Time%20River%20Revisited)
-+ [Join Us at the Table](https://github.com/Lintik/CodeFights-Databases/tree/master/Join%20Us%20at%20the%20Table)
++ [JOIN Us at the Table](https://github.com/Lintik/CodeFights-Databases/tree/master/JOIN%20Us%20at%20the%20Table)
 + [Table Metamorphoses](https://github.com/Lintik/CodeFights-Databases/tree/master/Table%20Metamorphoses)
 + [Selecting What to Select](https://github.com/Lintik/CodeFights-Databases/tree/master/Selecting%20What%20to%20Select)
 + [Express your CREATivity](https://github.com/Lintik/CodeFights-Databases/tree/master/Express%20your%20CREATivity)
