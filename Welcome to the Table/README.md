@@ -7,4 +7,3 @@
 |[monthlyScholarships](https://github.com/Lintik/CodeFights-Databases/blob/master/Welcome%20to%20the%20Table/monthlyScholarships/README.md)|[Code.sql]|
 |[projectsTeam](https://github.com/Lintik/CodeFights-Databases/blob/master/Welcome%20to%20the%20Table/projectsTeam/README.md)|[Code.sql]|
 |[automaticNotifications](https://github.com/Lintik/CodeFights-Databases/blob/master/Welcome%20to%20the%20Table/automaticNotifications/README.md)|[Code.sql]|
-|[]|[Code.sql]|
