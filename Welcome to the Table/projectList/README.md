@@ -1,6 +1,6 @@
 Your boss wants to identify the successful projects running in your company, so he asked you to prepare a list of all the currently active projects and their average monthly income.
 
-You have stored the information about these **projects** in a simple database with a single Projects table that has five columns:
+You have stored the information about these **Projects** in a simple database with a single Projects table that has five columns:
 
 * **internal_id**: the company's internal identifier for the project;
 * **project_name**: the official name of the project;
@@ -28,4 +28,4 @@ the resulting table should be
 |Windows	|Bill Gates	|100500|
 |Snapchat	|Evan Spiegel|	2000|
 
-[time limit] 10000ms (mysql)
++ [time limit] 10000ms (mysql)
