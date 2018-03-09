@@ -31,4 +31,4 @@ the output should be
 |5	|1750|
 |6	|1083.3333333333333|
 
-+ [time limit] 10000ms (mysql)
++ __[time limit] 10000ms (mysql)__
