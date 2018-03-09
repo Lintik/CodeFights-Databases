@@ -2,10 +2,10 @@ Students at your university get scholarships that are paid out throughout the ye
 
 Information about the scholarships is stored in the table **scholarships**, which has the structure:
 
-* **id**: the unique student id;
-* **scholarship**: the amount of the scholarship the student has been awarded.
+* `id`: the unique student id;
+* `scholarship`: the amount of the scholarship the student has been awarded.
           
-Now you need to calculate the amount of money each student should get per month. Given the table **scholarships**, build the resulting table as follows: The table should have the same columns as the initial table, but the scholarship column should contain the amount of the student's monthly scholarship payout. The rows should be ordered by the students' ids.
+Now you need to calculate the amount of money each student should get per month. Given the table **scholarships**, build the resulting table as follows: The table should have the same columns as the initial table, but the `scholarship` column should contain the amount of the student's monthly scholarship payout. The rows should be ordered by the `students`' `id`s.
 
 **Example**
 
@@ -31,4 +31,4 @@ the output should be
 |5	|1750|
 |6	|1083.3333333333333|
 
-[time limit] 10000ms (mysql)
++ [time limit] 10000ms (mysql)
