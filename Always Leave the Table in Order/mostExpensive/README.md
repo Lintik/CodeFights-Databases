@@ -2,13 +2,14 @@ Mr. Cash wants to keep track of his expenses, so he has prepared a list of all t
 
 The list of expenses is stored in a table **Products** which has the following columns:
 
-* **id**: unique product id;
-* **name**: the unique name of the product;
-* **price**: the price for one item;
-* **quantity**: the number of items bought.
-The resulting table should contain one row with a single column: the product with the lexicographically smallest name on which Mr. Cash spent the largest amount of money.
+* `id`: unique product id;
+* `name`: the unique name of the product;
+* `price`: the price for one item;
+* `quantity`: the number of items bought.
 
-The total amount of money spent on a product is calculated as price * quantity.
+The resulting table should contain one row with a single column: the product with the _lexicographically smallest_ name on which Mr. Cash spent the largest amount of money.
+
+The total amount of money spent on a product is calculated as `price` * `quantity`.
 
 **Example**
 
@@ -41,6 +42,6 @@ the output should be
 |---|
 |Cucumber|
 
-While the total cost for each product was 40, Cucumber has the lexicographically smallest name.
+While the total cost for each product was `40`, `Cucumber` has the lexicographically smallest name.
 
-[time limit] 10000ms (mysql)
++ __[time limit] 10000ms (mysql)__
