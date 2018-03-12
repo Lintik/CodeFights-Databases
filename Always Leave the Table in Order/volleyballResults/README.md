@@ -14,10 +14,10 @@ Your task is to sort the given __results__ table in ascending order by the numbe
 
 For given table results
 
-|name|country|scored|missed	wins|
+|name|country|scored|missed|	wins|
 |---|---|---|---|---|
-|FC Tokyo|	Japan|	26|	28	|1|
-|Fujian	|China|	24	|26|	0|
+|FC Tokyo|Japan|26|28|1|
+|Fujian	|China|24|26|	0|
 |Jesus Maria|	Argentina|	25|	23|	3|
 |University Blues|	Australia	|16	|25|	2|
 
