@@ -20,7 +20,7 @@
 ##  [Time River Revisited](https://github.com/Lintik/CodeFights-Databases/tree/master/Time%20River%20Revisited)
 ##  [JOIN Us at the Table](https://github.com/Lintik/CodeFights-Databases/tree/master/JOIN%20Us%20at%20the%20Table)
 ##  [Table Metamorphoses](https://github.com/Lintik/CodeFights-Databases/tree/master/Table%20Metamorphoses)
-##  [Selecting What to Select](https://github.com/Lintik/CodeFights-Databases/tree/master/Selecting%20What%20to%20Select)
+##  [Selecting What to Select](https://github.com/Lintik/CodeFights-Databases/tree/master/Selecting%20What%20to%20SELECT)
 ##  [Express your CREATivity](https://github.com/Lintik/CodeFights-Databases/tree/master/Express%20your%20CREATivity)
 ##  [Exotic Dishes](https://github.com/Lintik/CodeFights-Databases/tree/master/Exotic%20Dishes)
 ##  [Between Join and Select](https://github.com/Lintik/CodeFights-Databases/tree/master/Between%20Join%20and%20Select)
