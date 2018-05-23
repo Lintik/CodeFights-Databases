@@ -11,6 +11,15 @@
 |[automaticNotifications](https://github.com/Lintik/CodeFights-Databases/blob/master/Welcome%20to%20the%20Table/automaticNotifications/README.md)|[CODE.sql](https://github.com/Lintik/CodeFights-Databases/blob/master/Welcome%20to%20the%20Table/automaticNotifications/CODE.sql)|
 
 ##  [Always Leave Table in Order](https://github.com/Lintik/CodeFights-Databases/tree/master/Always%20Leave%20the%20Table%20in%20Order)
+
+|Problem Statement|Solution|
+|---|---|
+|[volleyballResults](https://github.com/Lintik/CodeFights-Databases/blob/master/Always%20Leave%20the%20Table%20in%20Order/volleyballResults/README.md)|[CODE.sql](https://github.com/Lintik/CodeFights-Databases/blob/master/Always%20Leave%20the%20Table%20in%20Order/volleyballResults/CODE.sql)|
+|[mostExpensive](https://github.com/Lintik/CodeFights-Databases/blob/master/Always%20Leave%20the%20Table%20in%20Order/mostExpensive/README.md)|[CODE.sql](https://github.com/Lintik/CodeFights-Databases/blob/master/Always%20Leave%20the%20Table%20in%20Order/mostExpensive/CODE.sql)|
+|[contestLeaderboard](https://github.com/Lintik/CodeFights-Databases/blob/master/Always%20Leave%20the%20Table%20in%20Order/contestLeaderboard/README.md)|[CODE.sql](https://github.com/Lintik/CodeFights-Databases/blob/master/Always%20Leave%20the%20Table%20in%20Order/contestLeaderboard/CODE.sql)|
+|[gradeDistribution](https://github.com/Lintik/CodeFights-Databases/blob/master/Always%20Leave%20the%20Table%20in%20Order/gradeDistribution/README.md)|[CODE.sql](https://github.com/Lintik/CodeFights-Databases/blob/master/Always%20Leave%20the%20Table%20in%20Order/gradeDistribution/CODE.sql)|
+|[mischievousNephews](https://github.com/Lintik/CodeFights-Databases/blob/master/Always%20Leave%20the%20Table%20in%20Order/mischievousNephews/README.md)|[CODE.sql](https://github.com/Lintik/CodeFights-Databases/blob/master/Always%20Leave%20the%20Table%20in%20Order/mischievousNephews/CODE.sql)|
+
 ##  [Would you LIKE the Second Meal](https://github.com/Lintik/CodeFights-Databases/tree/master/Would%20You%20Like%20a%20Second%20Meal)
 ##  [GROUP Dishes BY Type](https://github.com/Lintik/CodeFights-Databases/tree/master/GROUP%20Dishes%20BY%20Type)
 ##  [Time for Tricks](https://github.com/Lintik/CodeFights-Databases/tree/master/Time%20for%20Tricks)
