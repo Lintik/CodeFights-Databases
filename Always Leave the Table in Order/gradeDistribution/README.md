@@ -41,6 +41,6 @@ Output should be
 |Jonty|	11000|
 |Jonathan|	58754|
 
-For David, Jonty and Jonathan, the best option is number 3. But Anthony's best option is the second one, because Option1 = 25% of 100 + 25% of 10 +50% of 50 = 52.5, Option2 = 50% of 100 + 50% of 10 = 55, Option3 = 100% of 50 = 50.
+For David, Jonty and Jonathan, the best option is number 3. But Anthony's best option is the second one, because __Option1 = 25% of 100 + 25% of 10 +50% of 50 = 52.5, Option2 = 50% of 100 + 50% of 10 = 55, Option3 = 100% of 50 = 50__.
 
-[time limit] 10000ms (mysql)
++ __[execution time limit] 10 seconds (mysql)__
