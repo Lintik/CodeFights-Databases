@@ -2,18 +2,18 @@ Your nephews Huey, Dewey, and Louie are staying with you over the winter holiday
 
 You decided to track and analyze their behavior, so you created the __mischief__ table in your local database. The table has the following columns:
 
-* mischief_date: the date of the mischief (of the date type);
-* author: the nephew who caused the mischief ("Huey", "Dewey" or "Louie");
-* title: the title of the mischief.
+* `mischief_date`: the date of the mischief (of the `date` type);
+* `author`: the nephew who caused the mischief (`"Huey"`, `"Dewey"` or `"Louie"`);
+* `title`: the title of the mischief.
 
 It looks like each of your nephews is active on a specific day of the week. You decide to check your theory by creating another table as follows:
-The resulting table should contain four columns, weekday, mischief_date, author, and title, where weekday is the weekday of mischief_date (0 for Monday, 1 for Tuesday, and so on, with 6 for Sunday). The table should be sorted by the weekday column, and for each weekday Huey's mischief should go first, Dewey's should go next, and Louie's should go last. In case of a tie, mischief_date should be a tie-breaker. If there's still a tie, the record with the lexicographically smallest title should go first.
+The resulting table should contain four columns,` weekday`, `mischief_date`, `author`, and `title`, where weekday is the weekday of `mischief_date` (`0` for Monday, `1` for Tuesday, and so on, with `6` for Sunday). The table should be sorted by the `weekday` column, and for each `weekday` Huey's mischief should go first, Dewey's should go next, and Louie's should go last. In case of a tie, `mischief_date` should be a tie-breaker. If there's still a tie, the record with the lexicographically smallest `title` should go first.
 
 It is guaranteed that all entries of __mischief__ are unique.
 
 __Example__
 
-For the following table mischief
+For the following table __mischief__
 
 |mischief_date|	author|	title|
 |---|---|---|
@@ -39,6 +39,6 @@ the output should be
 
 The first and the eighth of December are Thursdays, the sixth of February is a Monday, and the first of January is a Sunday.
 
-The dates in the example are given in the format YYYY-MM-DD.
+The dates in the example are given in the format `YYYY-MM-DD`.
 
-[time limit] 10000ms (mysql)
++ __[execution time limit] 10 seconds (mysql)__
