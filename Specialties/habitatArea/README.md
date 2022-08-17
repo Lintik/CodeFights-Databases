@@ -36,3 +36,6 @@ Here is an illustration of the given points and their convex hull:
 Note that you should return the exact answer without any trailing zeros.
 
 [time limit] 10000ms (mysql)
+
+SELECT  ST_Area(ST_ConvexHull(ST_MPointFromText(CONCAT('MULTIPOINT(', GROUP_CONCAT(CONCAT_WS(' ', x, y)), ')')))) AS area
+    FROM places;
